@@ -29,9 +29,9 @@ jobs:
 
       matrix:
 
-        version: [123]
+        version: [10, 20]
 
-        names: ['test1' ,'test2']
+        names: ['test1' ,'test2', 'test3', 'test4']
 
     # condition     
 
